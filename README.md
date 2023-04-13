@@ -16,7 +16,7 @@
 
    根據不同的op code處理n,i,x,b,p,e，並且計算特定opcode需要的SYMBOL和PC 的distance，並以list的方式儲存每行code的instruction Location和object code。最後再將object program打印出來。
 
-   ![output](src=".\output.png")
+   ![output](output.png)
 
 2. How to execute your program
 
