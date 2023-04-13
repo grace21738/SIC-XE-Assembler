@@ -18,12 +18,23 @@
 
    ![output](.\output.png)
 
-2. **What  you  have  learned  and  experienced  during  the  implementation. E.g.  You  could  show  your  daily  record  of  the  implementation.** 
+2. How to execute your program
+
+   + 要轉換的 assemble code 要和 project.py 同個目錄下，並且 assemble code 請以 tab 的方式隔開呈現
+   + 執行以下指令
+
+   ```
+   $ python3 project.py
+   ```
+
+   
+
+3. **What  you  have  learned  and  experienced  during  the  implementation. E.g.  You  could  show  your  daily  record  of  the  implementation.** 
 
    + 知道為何要2 Pass的用意，以及如何建立TABLE。 
    + 知道format 1~4之間的差別，以及n,i,x,b,p,e之間的關係。
    + linux的system call呼叫，pipe、signal的實作，以及PCB的運作模式。
 
-3. **In  case  you  implement  more  than  the  required  specification,  please itemize  it.** If  you  implement  something  mentioned  in  the  previous  slice  (bonus points),  show  your  test  codes  (in  SIC/XE),  and  the  generated  object programs. 
+4. **In  case  you  implement  more  than  the  required  specification,  please itemize  it.** If  you  implement  something  mentioned  in  the  previous  slice  (bonus points),  show  your  test  codes  (in  SIC/XE),  and  the  generated  object programs. 
 
    沒有多做特殊功能。
